@@ -1,4 +1,4 @@
 # eCOTS
 
--eCOTS is fun!
--Teaching is fun!
+- eCOTS is fun!
+- Teaching is fun!
